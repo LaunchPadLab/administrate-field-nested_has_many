@@ -8,7 +8,7 @@ Add to your `Gemfile`:
 
 ```ruby
 gem "administrate-field-nested_has_many",
-      git: "https://github.com/NedelescuVlad/administrate-field-nested_has_many"
+      git: "https://github.com/LaunchPadLab/administrate-field-nested_has_many"
 ```
 
 Run:
